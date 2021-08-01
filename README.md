@@ -1,5 +1,6 @@
 
-> Abrir essa página em [https://isobew.github.io/jokenpo_microbit/](https://isobew.github.io/jokenpo_microbit/)
+> Abrir essa página em [https://isobew.github.io/jokenpo_microbit/](https://isobew.github.io/jokenpo_microbit/) </br>
+> Veja o jogo nesse <a href="https://makecode.microbit.org/_0x1h6x3yEf8i"/>link.
 
 ## Usar como extensão
 
